@@ -1,0 +1,22 @@
+
+---
+
+**LatencyFogScanner**  
+**Description:**  
+Scans APIs for intermittent latency spikes masked by average performance — ideal for uncovering “foggy” instability.
+
+```markdown
+# LatencyFogScanner - Intermittent Spike Detection Tool
+
+LatencyFogScanner detects hard-to-see performance drops by analyzing volatility and low-frequency spike bursts.
+
+## Features
+- Fog-level latency anomaly detection  
+- Historical trend mapping  
+- CSV / JSON reports
+
+## Usage
+```bash
+git clone https://github.com/your-username/LatencyFogScanner.git
+cd LatencyFogScanner
+python monitor.py
