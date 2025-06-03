@@ -1,0 +1,22 @@
+
+---
+
+**LogDriftWeaver**  
+**Description:**  
+Analyzes long-term log patterns to identify slow drift in error types, message density, or warning frequencies.
+
+```markdown
+# LogDriftWeaver - Temporal Log Shift Analyzer
+
+LogDriftWeaver visualizes how logs change over time, highlighting the slow evolution of anomalies and signals.
+
+## Features
+- Drift timeline generator  
+- Frequency pattern comparison  
+- CLI-based interface
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogDriftWeaver.git
+cd LogDriftWeaver
+python analyze.py
