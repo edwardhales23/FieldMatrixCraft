@@ -1,0 +1,22 @@
+
+---
+
+**StreamMirrorLine**  
+**Description:**  
+Displays live data with a central baseline and mirrored fluctuation lines to emphasize directional changes.
+
+```markdown
+# StreamMirrorLine - Bidirectional Metric Visualizer
+
+StreamMirrorLine renders live numeric streams on a mirror axis to highlight upward/downward velocity and symmetry.
+
+## Features
+- Mirror-axis scrollable chart  
+- Live rendering  
+- Matplotlib backend
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamMirrorLine.git
+cd StreamMirrorLine
+python visualize.py
